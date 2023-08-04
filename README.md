@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="![](sonic-boom-knuckles.gif)"  />
+<img align="right" height="150" src="https://github.com/DouglasLiebl/DouglasLiebl/blob/main/sonic-boom-knuckles.gif"  />
 
 ###
 
