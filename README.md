@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://github.com/DouglasLiebl/DouglasLiebl/blob/main/sonic-boom-knuckles.gif"  />
-
-###
-
 <div align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="30" alt="spring logo"  />
   </a>
