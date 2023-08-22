@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Douglas and  I'm 21 years old, I started my studies at UnC this year but I've been studying Python for some time and I've been studying Java and Spring Boot since the beginning of the year.<br>I'm looking to work as a Back-end developer and I'm studying elixir as a hobby.</h2>
+<h2 align="left">Hi 👋! My name is Douglas and  I'm 21 years old, I started my studies at UnC this year but I've been studying Python for some time and I've been studying Java and Spring Boot since the beginning of the year.<br>I'm looking to work as a Back-end developer.</h2>
 
 ###
 
