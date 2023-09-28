@@ -32,7 +32,6 @@
   </a>
   <img src="https://img.shields.io/badge/Travis CI-3EAAAF?logo=travisci&logoColor=black&style=for-the-badge" height="30" alt="travis logo" /> 
   </a>
-  <img src="https://img.shields.io/badge/Apache Kafka-231F20?logo=apachekafka&logoColor=white&style=for-the-badge" height="30" alt="apachekafka logo" /> 
 </div>
 
 ###
