@@ -22,15 +22,7 @@
   </a> 
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" height="30" alt="amazonwebservices logo" /> 
   </a> 
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo" /> 
-  </a>
-  <img src="https://img.shields.io/badge/Apache Maven-C71A36?logo=apachemaven&logoColor=white&style=for-the-badge" height="30" alt="apachemaven logo" /> 
-  </a>
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=black&style=for-the-badge" height="30" alt="rabbitmq logo" /> 
-  </a>
-  <img src="https://img.shields.io/badge/Codecov-F01F7A?logo=codecov&logoColor=white&style=for-the-badge" height="30" alt="codecov logo" /> 
-  </a>
-  <img src="https://img.shields.io/badge/Travis CI-3EAAAF?logo=travisci&logoColor=black&style=for-the-badge" height="30" alt="travis logo" /> 
   </a>
 </div>
 
