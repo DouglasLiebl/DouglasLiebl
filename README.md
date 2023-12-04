@@ -8,35 +8,27 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DouglasLiebl&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="30" alt="spring logo"  />
-  </a>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=black&style=for-the-badge" height="30" alt="spring logo" /> 
-  </a>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="30" alt="mongodb logo" /> 
-  </a>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="30" alt="postgresql logo" /> 
-  </a>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="mysql logo" /> 
-  </a>
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="30" alt="docker logo" /> 
-  </a> 
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" height="30" alt="amazonwebservices logo" /> 
-  </a> 
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=black&style=for-the-badge" height="30" alt="rabbitmq logo" /> 
-  </a>
+<div align="left">
+ <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=spring" height="30" alt="spring logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
+  <img src="https://skillicons.dev/icons?i=rabbitmq" height="30" alt="rabbitmq logo"  />
 </div>
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/douglas-liebl-1b56031a0/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/sokratisps" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="twitter logo"  />
   </a>
-</div>
+  </div>
 
 ###
 
