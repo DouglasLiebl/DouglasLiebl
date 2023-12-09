@@ -8,7 +8,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DouglasLiebl&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
-<div align="left">
+<div align="center">
  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
   <img src="https://skillicons.dev/icons?i=spring" height="30" alt="spring logo"  />
   <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
@@ -18,19 +18,6 @@
   <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
   <img src="https://skillicons.dev/icons?i=rabbitmq" height="30" alt="rabbitmq logo"  />
 </div>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/douglas-liebl-1b56031a0/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/sokratisps" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="twitter logo"  />
-  </a>
-  </div>
-
-###
 
 <br clear="both">
 
