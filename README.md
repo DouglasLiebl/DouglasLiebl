@@ -11,6 +11,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
   <img src="https://skillicons.dev/icons?i=spring" height="30" alt="spring logo"  />
   <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
   <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo"  />
