@@ -27,6 +27,9 @@
   <a href="https://twitter.com/sokratisps" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
+  <a href="https://www.credly.com/users/douglas-liebl.c448f647/badges" target="_blank" style="text-decoration:none ">
+    <img src="https://camo.githubusercontent.com/2ef458dea991860687793fc5a6cb3a69224249a4ef6afd9dfd7754d42fd1faa3/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d437265646c7926636f6c6f723d464636423030266c6f676f3d437265646c79266c6f676f436f6c6f723d464646464646266c6162656c3d" height="35" alt="credly logo"  />
+  </a>
 </div>
 
 ###
