@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/douglas-liebl-1b56031a0/d" target="_blank" style="text-decoration:none ">
+  <a href="https://www.linkedin.com/in/douglas-liebl-1b56031a0/" target="_blank" style="text-decoration:none ">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="mailto:douglasliebl@outlook.com">
