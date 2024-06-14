@@ -11,9 +11,11 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v3
+        with:
+          token: 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
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          GITHUB_TOKEN: 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
+          GITHUB_TOKEN: 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
           USERNAME: module-Douglas
       - name: Commit & Push
         run: |
