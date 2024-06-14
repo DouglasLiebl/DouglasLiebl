@@ -13,7 +13,7 @@ jobs:
       - uses: actions/checkout@v3
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          GITHUB_TOKEN: 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
+          GITHUB_TOKEN: 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
           USERNAME: module-Douglas
       - name: Commit & Push
         run: |
